@@ -169,13 +169,11 @@ div.pullRight a:hover:before
   color:white;
   text-align: left;
   position: relative;
-  left: 250px;
-  width: 1000px;
+  width: 100%;
   padding: 40px;
   border: 3px solid white;
   border-radius: 8px;
   margin-bottom: 10px;
-
 }
 
 .txt{
